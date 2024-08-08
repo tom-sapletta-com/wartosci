@@ -26,7 +26,7 @@ hierarchia dotyczy osoby lub członka organizacji i jest przydatna w przypadku k
     - wolność w podejmowaniu decyzji
       - prawdomówność w komunikacji
         - relacje wpływające na rozwój
-          - pomoc innym
+          - pomoc sobie i innym (np. poprzez szkolenia)
 ```
 
 Wyjaśnienie:
