@@ -62,14 +62,14 @@ hierarchia dotyczy osoby lub członka organizacji i jest przydatna w przypadku k
 - Wartości najwyższego rzędu determinują i nadają sens niższym wartościom 
 
 ```
-- Respektowanie wartosci (konstytucji) organizacji
-    - Szacunek dla człowieka
-        - Przestrzeganie zasad i przepisów
-            - Realizacja założonego celu
-                - Wolność i transparentność w podejmowaniu decyzji
-                  - Prawdomówność w komunikacji
-                    - Działania wpływające na rozwój organizacji
-                        - Działania wpływające na samorozwój 
+- Szacunek dla człowieka
+  - Respektowanie wartosci (konstytucji) organizacji    
+    - Przestrzeganie zasad i przepisów
+      - Realizacja założonego celu
+        - Wolność i transparentność w podejmowaniu decyzji
+          - Prawdomówność w komunikacji
+            - Działania wpływające na rozwój organizacji
+              - Działania wpływające na samorozwój 
 ```
 
 Cechy:
