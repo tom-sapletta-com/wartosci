@@ -24,6 +24,15 @@ To fundament, na którym opiera się ich wewnętrzna spoistość i zdolność do
         - Satysfakcja klientów
           - Rozwój kompetencji pracowników
 ```
+zmiana na:
+
+```
+- Ochrona reputacji i dobrego imienia firmy  
+  - Realizacja kluczowych celów organizacji
+      - Satysfakcja klientów
+        - Efektywność operacyjna        
+          - Rozwój kompetencji pracowników
+```
 
 Kontakt pracowników z klientami zewnętrznymi:
 
