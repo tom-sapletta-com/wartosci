@@ -15,81 +15,121 @@ To fundament, na którym opiera się ich wewnętrzna spoistość i zdolność do
 
 ## Przykłady hierarchii wartości:
 
+### Kontakt na zewnatrz, np z klientem
 
-### Osoba w organizacji 
+```
+- Ochrona reputacji i dobrego imienia firmy
+  - Realizacja kluczowych celów organizacji
+      - Efektywność operacyjna
+        - Satysfakcja klientów
+          - Rozwój kompetencji pracowników
+```
+
+Kontakt pracowników z klientami zewnętrznymi:
+
+1. **Ochrona reputacji i dobrego imienia firmy**
+   - To nadrzędna wartość, która bezwzględnie musi być zachowana.
+   - Pracownicy będą unikać działań, które mogłyby zagrozić wizerunkowi organizacji, nawet jeśli przynosiłyby doraźne korzyści.
+
+2. **Realizacja kluczowych celów organizacji**
+   - Pracownicy będą dążyć do realizacji strategicznych celów firmy w kontaktach z klientami.
+   - Ale nie może to odbywać się kosztem naruszenia reputacji.
+
+3. **Efektywność operacyjna**
+   - Pracownicy będą dbać o sprawność procesów i optymalizację kosztów w celu realizacji celów firmy.
+   - Jednak nie mogą one naruszać nadrzędnej wartości, jaką jest ochrona wizerunku.
+
+4. **Satysfakcja klientów**
+   - Zadowolenie klientów jest ważne, ale nie może być celem samym w sobie.
+   - Pracownicy będą dążyć do zapewnienia dobrej obsługi, ale bez przekraczania granic, które mogłyby zaszkodzić firmie.
+
+5. **Rozwój kompetencji pracowników**
+   - Inwestycje w rozwój umiejętności personelu są istotne, ale drugorzędne.
+   - Priorytetem jest zachowanie reputacji, nawet kosztem pewnych niedoskonałości w obsłudze klienta.
+
+W praktyce oznacza to, że pracownicy będą np.:
+- Odmawiali klientom prośb, które mogłyby naruszyć standardy etyczne firmy.
+- Unikali składania obietnic, których nie mogliby dotrzymać, by nie zaszkodzić wiarygodności organizacji.
+- Koncentrowali się na efektywnej realizacji zamówień, ale nie kosztem kompromitujących błędów.
+- Dbali o dobrą jakość obsługi, ale nie angażowali się w działania, które mogłyby narazić firmę.
+
+Hierarchia ta wymusza na pracownikach zachowanie balansu między potrzebami klientów a nadrzędnym celem, jakim jest ochrona dobrego imienia organizacji.
+
+
+### Praca wewnatrz organizacji 
 
 hierarchia dotyczy osoby lub członka organizacji i jest przydatna w przypadku konfliktów pomiędzy członkami organizacji
 - Wartości najwyższego rzędu (np. wolność) determinują i nadają sens niższym wartościom (np. prawdomówność, relacje).
 
 ```
-- realizacja założonego celu
-    - wolność w podejmowaniu decyzji
-      - prawdomówność w komunikacji
-        - relacje wpływające na rozwój
-          - pomoc sobie i innym (np. poprzez szkolenia)
+- Respektowanie konstytucji organizacji
+    - Szacunek dla człowieka
+        - Przestrzeganie zasad i przepisów
+            - Realizacja założonego celu
+                - Wolność i transparentność w podejmowaniu decyzji
+                  - Prawdomówność w komunikacji
+                    - Działania wpływające na rozwój organizacji
+                        - Działania wpływające na samorozwój 
 ```
+
+Cechy:
+
+Najważniejsze jest realizowanie celów firmy, ale odbywa się to przy poszanowaniu autonomii decyzyjnej, transparentności i uczciwości. 
+Działania indywidualne są dopuszczalne, o ile służą rozwojowi całej organizacji, zachowując przy tym autonomię decyzyjną i uczciwość, a jednocześnie dbając o relacje, o ile nie zagrażają one realizacji nadrzędnych celów. 
 
 Wyjaśnienie:
 
 1. **Realizacja założonego celu**
-    - Najważniejsza wartość - osiągnięcie celów wyznaczonych przez organizację.
-    - Pracownik rozumie, że jest to kluczowe dla powodzenia firmy i jego własnego rozwoju.
-    - Wszystkie niższe wartości są podporządkowane temu nadrzędnemu celowi.
+   - Najwyższa i najważniejsza wartość - osiągnięcie celów wyznaczonych dla organizacji.
+   - Wszystkie inne wartości są podporządkowane temu nadrzędnemu celowi.
 
-2. **Wolność w podejmowaniu decyzji**
-    - Pracownik ceni możliwość autonomicznego podejmowania decyzji w ramach swoich obowiązków.
-    - Ta swoboda pozwala mu efektywnie realizować założone cele.
-    - Ale nie może ona kolidować z nadrzędnym celem organizacji.
+2. **Wolność/transparentność w podejmowaniu decyzji**
+   - Kolejna kluczowa wartość, która umożliwia efektywną realizację celów.
+   - Pracownikom musi być zapewniona autonomia i przejrzystość procesu decyzyjnego.
 
 3. **Prawdomówność w komunikacji**
-    - Uczciwość i otwartość w komunikacji są ważne dla budowania zaufania i współpracy.
-    - Pracownik rozumie, że prawdomówność ułatwia realizację celów.
-    - Ale musi ona być ważniejsza niż dbanie o dobre relacje.
+   - Otwartość i uczciwość w wymianie informacji są fundamentem zaufania i współpracy.
+   - Bez tego trudno byłoby realizować założone cele.
 
-4. **Relacje wpływające na rozwój**
-    - Dobre relacje z przełożonymi i współpracownikami są istotne dla dalszego rozwoju zawodowego.
-    - Pracownik dąży do utrzymywania takich relacji, ale nie za wszelką cenę.
+4. **Działania wpływające na rozwój organizacji**
+   - Podejmowane działania muszą wzmacniać i rozwijać całą organizację.
+   - Cele indywidualne są ważne, ale muszą być podporządkowane celom organizacji.
 
-5. **Pomoc sobie i innym**
-    - Chęć niesienia pomocy innym członkom organizacji jest wartością, ale ma najmniejszy priorytet.
-    - Może być realizowana, o ile nie koliduje z wyższymi wartościami.
+5. **Działania wpływające na samorozwój**
+   - Na samym końcu hierarchii znajduje się rozwój osobisty pracowników.
+   - Jest on istotny, ale musi być w zgodzie z wartościami wyższego rzędu.
 
-W tej hierarchii najważniejsze jest osiągnięcie celów organizacji. Pracownik będzie dążył do tego, zachowując przy tym autonomię decyzyjną i uczciwość, a jednocześnie dbając o relacje, o ile nie zagrażają one realizacji nadrzędnych celów. To układ wartości, który pozwala efektywnie łączyć interesy pracownika i firmy.
 
 
 #### Przykładowa sytuacja z pytaniami, by ułatwić podejmowanie decyzji:
 
-Sytuacja: 
-- Członek organizacji dowiaduje się, że inny członek ukrył ważne informacje, które mogłyby negatywnie wpłynąć na realizację kluczowych celów organizacji. 
+Rozpatrzmy przykładową sytuację, w której pracownik musi podjąć decyzję zgodnie z przedstawioną hierarchią wartości:
 
-Członek ten musi zdecydować, czy powinien ujawnić te informacje, mimo że może to zaszkodzić relacjom z kolegą.
+Sytuacja:
+Pracownik działu sprzedaży dowiaduje się o nowej, innowacyjnej technologii, która mogłaby znacznie zwiększyć efektywność jego pracy. 
+Jednak wdrożenie tej technologii wymagałoby poinformowania klientów o pewnych niedoskonałościach obecnego systemu. 
+Musi zdecydować, czy ujawnić te informacje swoim klientom.
 
-Podejmując decyzję, będzie się kierował następującą hierarchią wartości:
+Przy podejmowaniu decyzji, pracownik będzie kierował się następującą hierarchią wartości:
 
 1. **Realizacja założonego celu**
-    - Czy ta sytuacja przeszkadza w realizacji celu?
-    - Ujawnienie ukrytych informacji może pomóc w osiągnięciu kluczowych celów organizacji.
-    - To najważniejsza wartość, która będzie mieć największy wpływ na ostateczną decyzję.
+   - Pytanie: W jaki sposób ta decyzja wpłynie na realizację celów sprzedażowych organizacji?
 
-2. **Wolność w podejmowaniu decyzji**
-    - Czy ta sytuacja blokuje moją wolność w dotarciu do założonego celu?
-    - Ujawnienie informacji może ograniczać wolność decyzyjną innego członka organizacji.
-    - Ale jeśli ważniejsze są wyższe wartości, jak realizacja celów, to może to przeważyć.
+2. **Wolność/transparentność w podejmowaniu decyzji**
+   - Pytanie: Czy mam swobodę w podjęciu tej decyzji, czy muszę skonsultować ją z przełożonymi?
 
-3. **Prawdomówność w komunikacji**
-    - Czy ta sytuacja ma wpływ na to, że musiałbym skłamać?
-    - Ujawnienie prawdy o ukrytych informacjach byłoby zgodne z wartością prawdomówności.
-    - Może to jednak naruszyć relacje z kolegą.
+3. **Prawdomówność w komunikacji** 
+   - Pytanie: Czy ujawnienie informacji o niedoskonałościach systemu jest zgodne z moją wartością prawdomówności?
 
-4. **Relacje wpływające na rozwój**
-    - Czy ta sytuacja wpływa na mój rozwój?
-    - Zachowanie dobrych relacji z kolegą może być istotne dla dalszego rozwoju organizacji.
-    - Ale jeśli priorytetem są wyższe wartości, to relacje mogą ustąpić.
+4. **Działania wpływające na rozwój organizacji**
+   - Pytanie: W jaki sposób ta decyzja wpłynie na dalszy rozwój i pozycję konkurencyjną firmy?
 
-5. **Pomoc innym**
-    - Czy ta sytuacja koliduje z pomocą innym?
-    - Ujawnienie informacji mogłoby pomóc innym członkom organizacji, np. przez zapobieżenie negatywnym konsekwencjom.
-    - Ta wartość może więc wspierać decyzję o ujawnieniu ukrytych informacji.
+5. **Działania wpływające na samorozwój**
+   - Pytanie: Jak ta decyzja przełoży się na mój własny rozwój i awans w organizacji?
+
+Ostatecznie, analizując tę sytuację przez pryzmat hierarchii wartości, pracownik podejmie decyzję, czy ujawnić informacje o niedoskonałościach systemu, czy też zachować je w tajemnicy. Będzie się kierował przede wszystkim dobrem organizacji i realizacją jej celów, a dopiero w dalszej kolejności swoimi osobistymi interesami.
+
+Taka systematyczna analiza kluczowych wartości pomaga pracownikowi podjąć decyzję spójną z nadrzędnymi priorytetami firmy.
 
 W tym konflikcie, członek organizacji będzie musiał wyważyć różne czynniki w świetle swojej hierarchii wartości. 
 Najprawdopodobniej zdecyduje się na ujawnienie informacji, gdyż realizacja kluczowych celów organizacji będzie dla niego najwyższą prioritetem.
