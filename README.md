@@ -59,10 +59,10 @@ Hierarchia ta wymusza na pracownikach zachowanie balansu między potrzebami klie
 ### Praca wewnatrz organizacji 
 
 hierarchia dotyczy osoby lub członka organizacji i jest przydatna w przypadku konfliktów pomiędzy członkami organizacji
-- Wartości najwyższego rzędu (np. wolność) determinują i nadają sens niższym wartościom (np. prawdomówność, relacje).
+- Wartości najwyższego rzędu determinują i nadają sens niższym wartościom 
 
 ```
-- Respektowanie konstytucji organizacji
+- Respektowanie wartosci (konstytucji) organizacji
     - Szacunek dla człowieka
         - Przestrzeganie zasad i przepisów
             - Realizacja założonego celu
