@@ -1,4 +1,4 @@
-# Wartości i autonomia organizacji / organizmów
+# Wartości i autonomia
 
 Wartości to temat dotyczący fundamentów funkcjonowania organizacji i organizmów:
 
