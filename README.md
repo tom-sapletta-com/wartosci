@@ -18,15 +18,6 @@ To fundament, na którym opiera się ich wewnętrzna spoistość i zdolność do
 ### Kontakt na zewnatrz, np z klientem
 
 ```
-- Ochrona reputacji i dobrego imienia firmy
-  - Realizacja kluczowych celów organizacji
-      - Efektywność operacyjna
-        - Satysfakcja klientów
-          - Rozwój kompetencji pracowników
-```
-zmiana na:
-
-```
 - Ochrona reputacji i dobrego imienia firmy  
   - Realizacja kluczowych celów organizacji
       - Satysfakcja klientów
@@ -37,30 +28,31 @@ zmiana na:
 Kontakt pracowników z klientami zewnętrznymi:
 
 1. **Ochrona reputacji i dobrego imienia firmy**
-   - To nadrzędna wartość, która bezwzględnie musi być zachowana.
-   - Pracownicy będą unikać działań, które mogłyby zagrozić wizerunkowi organizacji, nawet jeśli przynosiłyby doraźne korzyści.
+   - To nadrzędna wartość, której podporządkowane są wszystkie pozostałe.
+   - Pracownicy będą bezwzględnie strzec dobrego wizerunku organizacji.
 
 2. **Realizacja kluczowych celów organizacji**
-   - Pracownicy będą dążyć do realizacji strategicznych celów firmy w kontaktach z klientami.
-   - Ale nie może to odbywać się kosztem naruszenia reputacji.
+   - Osiąganie strategicznych celów firmy jest kluczowe, ale nie może się odbywać kosztem reputacji.
 
-3. **Efektywność operacyjna**
-   - Pracownicy będą dbać o sprawność procesów i optymalizację kosztów w celu realizacji celów firmy.
-   - Jednak nie mogą one naruszać nadrzędnej wartości, jaką jest ochrona wizerunku.
+3. **Satysfakcja klientów**
+   - Zadowolenie klientów jest ważne i przechodzi przed względami operacyjnymi.
+   - Pracownicy będą dążyć do wysokiej jakości obsługi i spełniania oczekiwań klientów.
 
-4. **Satysfakcja klientów**
-   - Zadowolenie klientów jest ważne, ale nie może być celem samym w sobie.
-   - Pracownicy będą dążyć do zapewnienia dobrej obsługi, ale bez przekraczania granic, które mogłyby zaszkodzić firmie.
+4. **Efektywność operacyjna**
+   - Optymalizacja procesów i kosztów jest istotna, ale nie może zagrażać relacjom z klientami.
+   - Efektywność musi służyć realizacji celów i satysfakcji klientów.
 
 5. **Rozwój kompetencji pracowników**
-   - Inwestycje w rozwój umiejętności personelu są istotne, ale drugorzędne.
-   - Priorytetem jest zachowanie reputacji, nawet kosztem pewnych niedoskonałości w obsłudze klienta.
+   - Inwestycje w rozwój personelu są ważne, ale drugorzędne w stosunku do priorytetów firmy i klientów.
+   - Pracownicy będą doskonalić swoje umiejętności, ale nie kosztem jakości obsługi.
 
-W praktyce oznacza to, że pracownicy będą np.:
-- Odmawiali klientom prośb, które mogłyby naruszyć standardy etyczne firmy.
-- Unikali składania obietnic, których nie mogliby dotrzymać, by nie zaszkodzić wiarygodności organizacji.
-- Koncentrowali się na efektywnej realizacji zamówień, ale nie kosztem kompromitujących błędów.
-- Dbali o dobrą jakość obsługi, ale nie angażowali się w działania, które mogłyby narazić firmę.
+W praktyce, ta hierarchia oznacza, że pracownicy będą np.:
+
+- Odmawiać klientom żądań, które mogłyby naruszyć standardy etyczne firmy.
+- Koncentrować się na realizacji strategicznych celów organizacji w obsłudze klientów.
+- Dążyć do wysokiej satysfakcji klientów, nawet kosztem pewnych niedoskonałości operacyjnych.
+- Optymalizować procesy, aby efektywnie zaspokajać potrzeby klientów.
+- Inwestować w rozwój własnych kompetencji, by lepiej obsługiwać klientów.
 
 Hierarchia ta wymusza na pracownikach zachowanie balansu między potrzebami klientów a nadrzędnym celem, jakim jest ochrona dobrego imienia organizacji.
 
@@ -83,31 +75,66 @@ hierarchia dotyczy osoby lub członka organizacji i jest przydatna w przypadku k
 
 Cechy:
 
-Najważniejsze jest realizowanie celów firmy, ale odbywa się to przy poszanowaniu autonomii decyzyjnej, transparentności i uczciwości. 
-Działania indywidualne są dopuszczalne, o ile służą rozwojowi całej organizacji, zachowując przy tym autonomię decyzyjną i uczciwość, a jednocześnie dbając o relacje, o ile nie zagrażają one realizacji nadrzędnych celów. 
+Ta hierarchia stawia na pierwszym miejscu bezwarunkowy szacunek dla człowieka. Dopiero na tej podstawie budowana jest kultura organizacyjna, oparcie na wartościach, przestrzeganiu przepisów i realizacji celów. Pracownicy mają autonomię i transparentność, ale muszą działać w zgodzie z najwyższymi zasadami.
+Jest to kompleksowe podejście, które harmonizuje interesy organizacji i jej pracowników, stawiając na pierwszym miejscu nadrzędną wartość - poszanowanie godności ludzkiej.
 
 Wyjaśnienie:
 
-1. **Realizacja założonego celu**
-   - Najwyższa i najważniejsza wartość - osiągnięcie celów wyznaczonych dla organizacji.
-   - Wszystkie inne wartości są podporządkowane temu nadrzędnemu celowi.
+1. **Szacunek dla człowieka**
+   - Najwyższą wartością jest poszanowanie godności i praw każdej osoby.
+   - Wszystkie pozostałe wartości muszą być zgodne z tą nadrzędną zasadą.
 
-2. **Wolność/transparentność w podejmowaniu decyzji**
-   - Kolejna kluczowa wartość, która umożliwia efektywną realizację celów.
-   - Pracownikom musi być zapewniona autonomia i przejrzystość procesu decyzyjnego.
+2. **Respektowanie wartości (konstytucji) organizacji**
+   - Organizacja ma swój system wartości, który musi być respektowany.
+   - Jest to podstawa, na której budowana jest dalsza działalność.
 
-3. **Prawdomówność w komunikacji**
-   - Otwartość i uczciwość w wymianie informacji są fundamentem zaufania i współpracy.
-   - Bez tego trudno byłoby realizować założone cele.
+3. **Przestrzeganie zasad i przepisów**
+   - Legalność i zgodność z regulacjami to fundament funkcjonowania.
+   - Pracownicy muszą działać w ramach obowiązujących reguł.
 
-4. **Działania wpływające na rozwój organizacji**
+4. **Realizacja założonego celu**
+   - Osiąganie celów organizacji jest kluczowe, ale musi odbywać się w ramach wyższych wartości.
+
+5. **Wolność i transparentność w podejmowaniu decyzji**
+   - Autonomia i przejrzystość procesu decyzyjnego umożliwia efektywną realizację celów.
+
+6. **Prawdomówność w komunikacji**
+   - Otwartość i uczciwość budują zaufanie i sprzyjają współpracy.
+
+7. **Działania wpływające na rozwój organizacji**
    - Podejmowane działania muszą wzmacniać i rozwijać całą organizację.
-   - Cele indywidualne są ważne, ale muszą być podporządkowane celom organizacji.
 
-5. **Działania wpływające na samorozwój**
-   - Na samym końcu hierarchii znajduje się rozwój osobisty pracowników.
-   - Jest on istotny, ale musi być w zgodzie z wartościami wyższego rzędu.
+8. **Działania wpływające na samorozwój**
+   - Rozwój kompetencji pracowników jest istotny, ale drugoplanowy.
 
+Zgodnie z przedstawioną hierarchią wartości, przy wykonywaniu swoich obowiązków współpracownicy powinni zadawać sobie następujące kluczowe pytania:
+
+1. **Czy moje działania respektują godność i prawa innych ludzi?**
+   - Pytanie to odnosi się do najwyższej wartości - szacunku dla człowieka.
+   - Współpracownicy muszą stale weryfikować, czy ich postępowanie jest w pełni etyczne i nie narusza niczyjej godności.
+
+2. **Czy moje decyzje i działania są zgodne z wartościami i kulturą organizacyjną?**
+   - Pracownicy powinni upewnić się, że ich postępowanie wpisuje się w obowiązujące w firmie standardy.
+
+3. **Czy przestrzegam wszystkich obowiązujących zasad i przepisów?**
+   - Ważne jest, aby współpracownicy zachowywali pełną legalność i zgodność z regulacjami.
+
+4. **W jaki sposób moje działania przyczyniają się do realizacji celów organizacji?**
+   - Pracownicy muszą rozumieć, w jaki sposób ich indywidualne zadania służą osiąganiu kluczowych celów firmy.
+
+5. **Czy mam swobodę i przejrzystość w podejmowaniu tej decyzji/działania?**
+   - Ważne jest, aby współpracownicy mieli autonomię, ale również działali w sposób transparentny.
+
+6. **Czy przekazuję informacje w sposób uczciwy i prawdomówny?**
+   - Pracownicy powinni stale monitorować jakość i rzetelność swojej komunikacji.
+
+7. **W jaki sposób to działanie wpłynie na rozwój całej organizacji?**
+   - Współpracownicy muszą mieć na uwadze interes firmy, a nie tylko własne cele.
+
+8. **W jaki sposób to działanie przyczyni się do mojego osobistego rozwoju?**
+   - Choć rozwój indywidualny jest ważny, nie powinien on dominować nad wyższymi wartościami.
+
+Zadawanie sobie tych pytań pozwoli współpracownikom podejmować decyzje i działania spójne z przedstawioną hierarchią wartości, zapewniając tym samym harmonię między interesami pracowników a interesami całej organizacji.
 
 
 #### Przykładowa sytuacja z pytaniami, by ułatwić podejmowanie decyzji:
@@ -115,35 +142,46 @@ Wyjaśnienie:
 Rozpatrzmy przykładową sytuację, w której pracownik musi podjąć decyzję zgodnie z przedstawioną hierarchią wartości:
 
 Sytuacja:
-Pracownik działu sprzedaży dowiaduje się o nowej, innowacyjnej technologii, która mogłaby znacznie zwiększyć efektywność jego pracy. 
-Jednak wdrożenie tej technologii wymagałoby poinformowania klientów o pewnych niedoskonałościach obecnego systemu. 
-Musi zdecydować, czy ujawnić te informacje swoim klientom.
+Pracownik działu sprzedaży dowiaduje się o błędzie w systemie informatycznym, który powoduje, że klienci są błędnie informowani o dostępności produktów. 
+Pracownik musi zdecydować, czy poinformować klientów o tym problemie, czy ukryć tę informację i nadal sprzedawać produkty.
 
-Przy podejmowaniu decyzji, pracownik będzie kierował się następującą hierarchią wartości:
+Podejmując tę decyzję, pracownik będzie kierował się następującą hierarchią wartości:
 
-1. **Realizacja założonego celu**
+1. **Szacunek dla człowieka**
+   - Pytanie: Czy poinformowanie lub zatajenie informacji przed klientami będzie respektowało ich godność i prawa?
+   - Priorytetem powinno być chronienie prywatności i godności klientów, których dane są narażone.
+
+2. **Respektowanie wartości (konstytucji) organizacji**
+   - Pytanie: Czy moja decyzja będzie zgodna z wartościami i kulturą organizacyjną firmy?
+   - Pracownik powinien sprawdzić, czy firma ma jasno określone standardy postępowania z danymi osobowymi.
+
+3. **Przestrzeganie zasad i przepisów**
+   - Pytanie: Czy ujawnienie lub ukrycie informacji jest zgodne z obowiązującymi regulacjami?
+   - Pracownik musi upewnić się, że obecny stan narusza obowiązujące regulacje prawne dotyczące ochrony danych.
+
+4. **Realizacja założonego celu**
    - Pytanie: W jaki sposób ta decyzja wpłynie na realizację celów sprzedażowych organizacji?
+   - Pracownik powinien ocenić, w jaki sposób ujawnienie problemu może wpłynąć na realizację celów firmy.
 
-2. **Wolność/transparentność w podejmowaniu decyzji**
-   - Pytanie: Czy mam swobodę w podjęciu tej decyzji, czy muszę skonsultować ją z przełożonymi?
+5. **Wolność i transparentność w podejmowaniu decyzji**
+   - Pytanie: Czy mam swobodę w podjęciu tej decyzji, czy powinienem ją skonsultować z przełożonymi?
+   - Pracownik powinien mieć swobodę w poinformowaniu odpowiednich osób (np. przełożonych, zespołu ds. compliance) o zidentyfikowanym problemie.
 
-3. **Prawdomówność w komunikacji** 
-   - Pytanie: Czy ujawnienie informacji o niedoskonałościach systemu jest zgodne z moją wartością prawdomówności?
+6. **Prawdomówność w komunikacji**
+   - Pytanie: Czy ujawnienie informacji o błędzie systemu jest zgodne z moją wartością prawdomówności?
+   - Pracownik powinien uczciwie i rzetelnie przekazać wszystkie istotne informacje na temat zagrożenia.
 
-4. **Działania wpływające na rozwój organizacji**
-   - Pytanie: W jaki sposób ta decyzja wpłynie na dalszy rozwój i pozycję konkurencyjną firmy?
+7. **Działania wpływające na rozwój organizacji**
+   - Pytanie: W jaki sposób ta decyzja wpłynie na długoterminowy rozwój i pozycję firmy?
+   - Zgłoszenie problemu i podjęcie działań zaradczych powinno służyć długoterminowemu rozwojowi i bezpieczeństwu firmy.
 
-5. **Działania wpływające na samorozwój**
-   - Pytanie: Jak ta decyzja przełoży się na mój własny rozwój i awans w organizacji?
-
-Ostatecznie, analizując tę sytuację przez pryzmat hierarchii wartości, pracownik podejmie decyzję, czy ujawnić informacje o niedoskonałościach systemu, czy też zachować je w tajemnicy. Będzie się kierował przede wszystkim dobrem organizacji i realizacją jej celów, a dopiero w dalszej kolejności swoimi osobistymi interesami.
-
-Taka systematyczna analiza kluczowych wartości pomaga pracownikowi podjąć decyzję spójną z nadrzędnymi priorytetami firmy.
-
-W tym konflikcie, członek organizacji będzie musiał wyważyć różne czynniki w świetle swojej hierarchii wartości. 
-Najprawdopodobniej zdecyduje się na ujawnienie informacji, gdyż realizacja kluczowych celów organizacji będzie dla niego najwyższą prioritetem.
+8. **Działania wpływające na samorozwój**
+   - Pytanie: Jak ta decyzja przełoży się na mój własny rozwój i ocenę w organizacji?
+   - Choć działanie to może nieść za sobą pewne ryzyko dla pracownika, powinien on przedłożyć interes organizacji nad własny rozwój.
 
 
+W tym przypadku, zgodnie z hierarchią, pracownik powinien poinformować przełożonych lub odpowiednie służby o problematycznej sytuacji z danymi klientów. 
+Priorytetem jest ochrona godności ludzkiej, przestrzeganie przepisów i zapewnienie bezpieczeństwa organizacji, nawet jeśli wiąże się to z pewnymi kosztami dla pracownika.
 
 
 ### Cele finansowe organizacji
@@ -266,3 +304,69 @@ Poniżej opisane zostały kroki w celu wypracowania własnej hierarchii wartośc
 Kluczem jest ciągłe doskonalenie i adaptacja hierarchii wartości do zmieniających się okoliczności. 
 Regularnie weryfikuj i aktualizuj ją, by pozostawała aktualna i funkcjonalna. 
 To pozwoli na lepsze decyzje, budowanie silniejszych relacje i realizację oczkiwanych rezultatów.
+
+
+## Workshop, budowanie hierarchii wartości
+
+### Prezentacja
+1. Video prezentacja + audio
+2. Co to jest
+2. Przykład
+3. Korzyści
+
+### Workshop
++ detekcja wartości na podstawie odpowiedzi na pytania testowe dotyczące decyzji w oparciu o poplarną listę wartości
++ hierarchia wartości wynikajaca z tych pytań
++ zaznacz jakie wartości są dla Ciebie kolejno ważne, zmień kolejność 
++ Zaproponuj rozwiazanie
+
+
+### Szkolenie dla pracowników w oparciu o hierarchię wartości
+
+Cele szkolenia:
+- Pomóc pracownikom zidentyfikować własną hierarchię wartości
+- Pokazać, jak hierarchia wartości wpływa na podejmowanie decyzji
+- Zachęcić do refleksji i ewentualnej modyfikacji hierarchii wartości
+
+### Przebieg szkolenia:
+
+1. Detekcja wartości na podstawie pytań testowych
+
+Na początku szkolenia, przeprowadzimy serię pytań testowych, które pomogą pracownikom określić, jakie wartości są dla nich najważniejsze. Przykładowe pytania:
+
+"Jeśli musiałbyś wybrać między dotrzymaniem obietnicy złożonej współpracownikowi a uniknięciem kłopotów dla firmy, co byś wybrał?"
+a) Dotrzymanie obietnicy
+b) Uniknięcie kłopotów dla firmy
+
+"Odkryłeś, że niektóre informacje, które musisz przekazać klientowi, mogą go zrazić do firmy. Czy ujawnisz te informacje, czy wolisz zatuszować problem?"
+a) Ujawnię informacje
+b) Zatuszuję problem
+
+Po serii takich pytań, pracownicy będą mogli określić, które wartości (np. lojalność, uczciwość, ochrona firmy) najczęściej deklarują jako ważne dla siebie.
+
+2. Hierarchia wartości wynikająca z odpowiedzi
+
+Następnie omówimy, w jaki sposób odpowiedzi na pytania testowe odzwierciedlają hierarchię wartości pracowników. Przedstawimy przykładową hierarchię, np.:
+
+- Ochrona reputacji firmy
+- Przestrzeganie przepisów i regulacji
+- Troska o dobro klientów
+- Uczciwość w komunikacji
+- Lojalność wobec współpracowników
+- Rozwój osobisty
+
+Wyjaśnimy, że hierarchia ta determinuje, które wartości są najważniejsze w podejmowaniu decyzji.
+
+3. Indywidualna refleksja na temat własnej hierarchii
+
+Poprosimy pracowników, aby zastanowili się nad własną hierarchią wartości. Każdy z nich otrzyma kartkę, na której zaznaczą kolejno, które wartości są dla nich najważniejsze. 
+Zachęcimy do ewentualnej modyfikacji tej hierarchii, jeśli uznają, że nie odzwierciedla ona w pełni ich priorytetów.
+
+4. Propozycja rozwiązań
+
+Na koniec, poprosimy pracowników o podzielenie się konkretnymi przykładami, w jaki sposób ich hierarchia wartości pomogła im lub mogłaby pomóc w trudnych decyzjach zawodowych. 
+Omówimy, jak można wykorzystać tę wiedzę do poprawy podejmowania decyzji, rozwiązywania konfliktów i budowania spójnej kultury organizacyjnej.
+
+Podsumowanie:
+Szkolenie to ma na celu uświadomienie pracownikom, że posiadają własną hierarchię wartości, która determinuje ich decyzje. Dzięki refleksji nad nią i zrozumieniu jej wpływu, mogą 
+podejmować działania bardziej świadome i spójne z priorytetami firmy.
