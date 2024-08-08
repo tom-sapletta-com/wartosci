@@ -50,7 +50,7 @@ Wyjaśnienie:
     - Dobre relacje z przełożonymi i współpracownikami są istotne dla dalszego rozwoju zawodowego.
     - Pracownik dąży do utrzymywania takich relacji, ale nie za wszelką cenę.
 
-5. **Pomoc innym**
+5. **Pomoc sobie i innym**
     - Chęć niesienia pomocy innym członkom organizacji jest wartością, ale ma najmniejszy priorytet.
     - Może być realizowana, o ile nie koliduje z wyższymi wartościami.
 
